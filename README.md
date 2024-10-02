@@ -2,6 +2,8 @@
 
 ### Site feito com a ajuda do @rodolfomorii da DevClub <br> https://www.youtube.com/@canaldevclub
 
+## Link do Vercel: https://react-previsao-two.vercel.app/
+
 #### O que usei:
 
   - HTML
